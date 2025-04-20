@@ -1,0 +1,1 @@
+Build and maintain health records efficiently with this Java Spring Boot application. Data integrity is ensured through schema validation, while ElasticSearch handles logging, RabbitMQ and Redis provide caching, and OAuth2.0 secures access.
